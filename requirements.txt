@@ -1,0 +1,20 @@
+﻿# Core numerical + data stack
+numpy
+pandas
+scipy
+scikit-learn
+
+# Visualization + image preprocessing
+matplotlib
+pillow
+
+# Inference models
+# The Space uses the CPU runtime for the compact wafer CNN.
+torch
+
+# Agent workflow + dashboard
+langgraph
+streamlit
+
+# Model persistence
+joblib

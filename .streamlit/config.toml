@@ -1,0 +1,14 @@
+# Theme for the FabPilot AI demo. Keeps the dashboard looking consistent
+# regardless of the viewer's local Streamlit settings.
+[theme]
+base = "light"
+primaryColor = "#2563EB"
+backgroundColor = "#F4F6FB"
+secondaryBackgroundColor = "#FFFFFF"
+textColor = "#0F172A"
+
+[client]
+toolbarMode = "minimal"
+
+[browser]
+gatherUsageStats = false

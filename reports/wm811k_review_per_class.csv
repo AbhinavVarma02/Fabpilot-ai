@@ -1,0 +1,10 @@
+class,n,correct,accuracy
+Center,20,12,0.600000
+Donut,20,15,0.750000
+Edge-Loc,20,9,0.450000
+Edge-Ring,20,15,0.750000
+Local,20,1,0.050000
+Near-full,20,18,0.900000
+None,20,0,0.000000
+Random,20,18,0.900000
+Scratch,20,16,0.800000
