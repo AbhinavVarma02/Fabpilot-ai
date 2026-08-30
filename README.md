@@ -1,23 +1,3 @@
----
-title: FabPilot AI
-emoji: 🔬
-colorFrom: blue
-colorTo: indigo
-sdk: docker
-app_port: 7860
-pinned: false
-license: mit
-short_description: Semiconductor yield diagnosis copilot
-tags:
-  - streamlit
-  - semiconductors
-  - applied-ai
-  - machine-learning
-  - computer-vision
-  - explainability
-  - langgraph
----
-
 # FabPilot AI
 
 FabPilot AI is a decision-support demo for semiconductor yield investigation. It brings process-sensor risk, wafer-map classification, local feature explanations, and human-review routing into one Streamlit workflow.
